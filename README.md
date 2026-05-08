@@ -186,9 +186,7 @@ The final dashboard includes:
 
 # 📷 Dashboard Preview
 
-```markdown id="yv9ofn"
 ![Dashboard](Fianl_Report/dashboard.png)
-```
 
 ---
 
