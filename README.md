@@ -1,6 +1,4 @@
-# FUTURE_DS_02
-Customer Retention &amp; Churn Analysis
-# 📊 Customer Retention & Churn Analysis Using Python
+# 📊 Customer Retention & Churn Analysis
 
 ## 📌 Project Overview
 
@@ -186,8 +184,7 @@ The final dashboard includes:
 
 # 📷 Dashboard Preview
 
-![Dashboard](Fianl_Report/dashboard.png)
-
+![Dashboard](Final_Report/dashboard.png)
 ---
 
 # 📁 Project Structure
@@ -218,7 +215,7 @@ FUTURE_DS_02/
 
 # ⚡ Installation
 
-Install dependencies:
+Install Requirred Libraries:
 
 ```bash id="bdqft7"
 pip install numpy pandas matplotlib seaborn
