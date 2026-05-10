@@ -184,13 +184,18 @@ The final dashboard includes:
 
 # 📷 Dashboard Preview
 
-![Dashboard](Final_Report/dashboard.png)
+![Dashboard](Dashboard/PowerBI_image.png)
 ---
 
 # 📁 Project Structure
 
 ```text id="8w81m0"
 FUTURE_DS_02/
+|
+├── Dashboard/
+│   ├── dashboard.png
+│   ├── PowerBI_image.png
+│   ├── PowerBI_dashboard.pbix
 │
 ├── Data/
 │   ├── Telco-Customer-Churn.csv
@@ -204,10 +209,8 @@ FUTURE_DS_02/
 │   ├── 05_customer_segmentation.ipynb
 │   ├── 06_retention_drivers.ipynb
 │   ├── 07_revenue_analysis.ipynb
-│   └── 08_dashboard.ipynb
 │
 ├── Final_Report/
-│   ├── dashboard.png
 │   └── Report.pdf
 ```
 
